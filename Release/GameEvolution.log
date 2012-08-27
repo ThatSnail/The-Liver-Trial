@@ -1,0 +1,32 @@
+﻿  HGame.cpp
+  HResources.cpp
+  HRoom.cpp
+  LDraw.cpp
+LDraw.cpp(14): warning C4244: '=' : conversion from 'double' to 'Sint16', possible loss of data
+LDraw.cpp(22): warning C4244: '=' : conversion from 'double' to 'Sint16', possible loss of data
+LDraw.cpp(23): warning C4244: '=' : conversion from 'double' to 'Sint16', possible loss of data
+LDraw.cpp(41): warning C4244: '=' : conversion from 'double' to 'Sint16', possible loss of data
+LDraw.cpp(42): warning C4244: '=' : conversion from 'double' to 'Sint16', possible loss of data
+  main.cpp
+  Obj.cpp
+  ObjChar.cpp
+  ObjDecalPop.cpp
+  ObjGlass.cpp
+  ObjSolid.cpp
+  ObjSpikes.cpp
+  ObjWall.cpp
+  Room.cpp
+  RoomTest.cpp
+  Spr.cpp
+  SprChar.cpp
+  SprCharJump.cpp
+  SprCharWalk.cpp
+  SprDecalPop.cpp
+  SprItemBoots.cpp
+  Compiling...
+  SprItemTurret.cpp
+  SprSpikes.cpp
+  SprWall.cpp
+  Generating code
+  Finished generating code
+  GameEvolution.vcxproj -> C:\Users\Owner\Desktop\C++ SDL\GameEvolution\Release\GameEvolution.exe

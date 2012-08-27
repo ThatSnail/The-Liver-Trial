@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\objs">
+      <UniqueIdentifier>{d3b33f59-fb62-46aa-8f6f-542dc3135a50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\sprs">
+      <UniqueIdentifier>{ecf9d112-df54-46d2-8333-8cfe4955729b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\objs">
+      <UniqueIdentifier>{dfafe60c-07f9-4298-bbb7-9432c77ebe0f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\rooms">
+      <UniqueIdentifier>{1fcbbc0f-1fa1-4dfa-85de-02cbb3d222fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\rooms">
+      <UniqueIdentifier>{e30e2d66-0fb2-4396-abe0-52a6404f29a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\sprs">
+      <UniqueIdentifier>{f5684759-873f-4af8-b017-f58c4115ab02}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Obj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Spr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Room.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjChar.cpp">
+      <Filter>Source Files\objs</Filter>
+    </ClCompile>
+    <ClCompile Include="SprChar.cpp">
+      <Filter>Source Files\sprs</Filter>
+    </ClCompile>
+    <ClCompile Include="HResources.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LDraw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HRoom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RoomTest.cpp">
+      <Filter>Source Files\rooms</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjSolid.cpp">
+      <Filter>Source Files\objs</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjWall.cpp">
+      <Filter>Source Files\objs</Filter>
+    </ClCompile>
+    <ClCompile Include="SprWall.cpp">
+      <Filter>Source Files\sprs</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjSpikes.cpp">
+      <Filter>Source Files\objs</Filter>
+    </ClCompile>
+    <ClCompile Include="SprSpikes.cpp">
+      <Filter>Source Files\sprs</Filter>
+    </ClCompile>
+    <ClCompile Include="SprCharJump.cpp">
+      <Filter>Source Files\sprs</Filter>
+    </ClCompile>
+    <ClCompile Include="SprCharWalk.cpp">
+      <Filter>Source Files\sprs</Filter>
+    </ClCompile>
+    <ClCompile Include="SprItemBoots.cpp">
+      <Filter>Source Files\sprs</Filter>
+    </ClCompile>
+    <ClCompile Include="SprItemTurret.cpp">
+      <Filter>Source Files\sprs</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjDecalPop.cpp">
+      <Filter>Source Files\objs</Filter>
+    </ClCompile>
+    <ClCompile Include="SprDecalPop.cpp">
+      <Filter>Source Files\sprs</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjGlass.cpp">
+      <Filter>Source Files\objs</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="HGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="H.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Obj.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Spr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LDraw.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Room.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HResources.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SprChar.h">
+      <Filter>Header Files\sprs</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjChar.h">
+      <Filter>Header Files\objs</Filter>
+    </ClInclude>
+    <ClInclude Include="HRoom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RoomTest.h">
+      <Filter>Header Files\rooms</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjSolid.h">
+      <Filter>Header Files\objs</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjWall.h">
+      <Filter>Header Files\objs</Filter>
+    </ClInclude>
+    <ClInclude Include="SprWall.h">
+      <Filter>Header Files\sprs</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjSpikes.h">
+      <Filter>Header Files\objs</Filter>
+    </ClInclude>
+    <ClInclude Include="SprSpikes.h">
+      <Filter>Header Files\sprs</Filter>
+    </ClInclude>
+    <ClInclude Include="SprCharWalk.h">
+      <Filter>Header Files\sprs</Filter>
+    </ClInclude>
+    <ClInclude Include="SprCharJump.h">
+      <Filter>Header Files\sprs</Filter>
+    </ClInclude>
+    <ClInclude Include="SprItemTurret.h">
+      <Filter>Header Files\sprs</Filter>
+    </ClInclude>
+    <ClInclude Include="SprItemBoots.h">
+      <Filter>Header Files\sprs</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjDecalPop.h">
+      <Filter>Header Files\objs</Filter>
+    </ClInclude>
+    <ClInclude Include="SprDecalPop.h">
+      <Filter>Header Files\sprs</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjGlass.h">
+      <Filter>Header Files\objs</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
